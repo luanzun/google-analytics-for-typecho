@@ -4,7 +4,7 @@
 
 下载压缩包后，需要把文件夹名称改为`GoogleAnalytics`，否则无法正常使用插件。
 
-google analytics 在2015年4月份进行了升级。而之前 typecho 的插件还是使用的以前的代码，所以我就手动修改了一下，这样就支持最新版统计代码了<del>，而且添加了域名设置</del>。 [原版链接](http://blog.mutoo.im/google-analytics.html)
+google analytics 在2015年4月份进行了升级。而之前 typecho 的插件还是使用的以前的代码，所以我就手动修改了一下，这样就支持最新版统计代码了。 [原版链接](http://blog.mutoo.im/google-analytics.html)
 
 更新记录：
 2018年09月08日 1.0.2版，优化代码，删除网站域名这一多余设置项。
