@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## google-analytics-for-typecho
 
-You can use the [editor on GitHub](https://github.com/luanzun/google-analytics-for-typecho/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+插件名称:`GoogleAnalytics`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+下载压缩包后，需要把文件夹名称改为`GoogleAnalytics`，否则无法正常使用插件。
 
-### Markdown
+google analytics 在2015年4月份进行了升级。而之前 typecho 的插件还是使用的以前的代码，所以我就手动修改了一下，这样就支持最新版统计代码了<del>，而且添加了域名设置</del>。 [原版链接](http://blog.mutoo.im/google-analytics.html)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luanzun/google-analytics-for-typecho/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+更新记录：
+2018年09月08日 1.0.2版，优化代码，删除网站域名这一多余设置项。
+2017年10月14日 1.0.1版，增加 Google Optimize 优化工具容器 设置。
+2015年11月4日12:01:20 修改“其它代码”。
